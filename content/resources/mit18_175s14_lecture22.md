@@ -4,7 +4,12 @@ description: This file contains the information regarding theory of probability,
   slide 22.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-175-theory-of-probability-spring-2014/2fed10133ba6b93ad253472b2837fece_MIT18_175S14_Lecture22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: Theory of Probability, Lecture Slide 22
+type: OCWFile
 uid: 2fed1013-3ba6-b93a-d253-472b2837fece
 ---
