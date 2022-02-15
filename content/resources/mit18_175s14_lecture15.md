@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: Theory of Probability, Lecture Slide 15
-type: OCWFile
 uid: 20b9ab92-7041-1208-3d78-d0af846ac13f
 ---
