@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course textbook and other recommended
+  books.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
