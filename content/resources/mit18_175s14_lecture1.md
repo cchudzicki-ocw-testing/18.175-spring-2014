@@ -6,6 +6,7 @@ file: /courses/18-175-theory-of-probability-spring-2014/e793116b0f70b437cca5e9cf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
